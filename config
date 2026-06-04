@@ -1,0 +1,9 @@
+{
+  "provider": {
+    "kdep": "",
+    "gemini": "new_key_here",
+    "kdel": "dd",
+    "kdeldad": "dd"
+  },
+  "SelectedModel": ""
+}
